@@ -74,7 +74,7 @@
       <dependency>
         <groupId>edu.ucar</groupId>
         <artifactId>netcdf-java-testing-platform</artifactId>
-        <version>5.5.4-SNAPSHOT</version>
+        <version>5.5.3</version>
         <type>pom</type>
         <scope>import</scope>
       </dependency>
@@ -231,7 +231,7 @@
     <maven-antrun-plugin.version>3.1.0</maven-antrun-plugin.version>
 
     <!-- TDS version, and version for the download-tds artifacts repository (without SNAPSHOT) -->
-    <tds.version>5.5-SNAPSHOT</tds.version>
+    <tds.version>5.4</tds.version>
     <downloads-tds.version>5.5</downloads-tds.version>
   </properties>
 </project>
